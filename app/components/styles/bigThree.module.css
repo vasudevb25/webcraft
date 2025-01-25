@@ -1,0 +1,14 @@
+#TopGame{
+    position: absolute;
+    left: 70px;
+    top:150px;
+    opacity: 50%;
+    width: 1050px;
+    height: 550px;
+  }
+  #TopPoster{
+    position: absolute;
+    left:70px;
+    top:330px;
+    height: 370px;
+  }
