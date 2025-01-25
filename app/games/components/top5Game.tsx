@@ -7,7 +7,7 @@ import Image from "next/image"
 import Link from "next/link"
 import gamedata from "@/public/games.json"
 export default function TopFiveGames(props:any){
-    const games:Games[]=gamedata
+    const games:Games[]=gamedata.slice(0,5)
     let page=props.page
     return(
         <div className={page=="home"?styles.a:styles.b}>

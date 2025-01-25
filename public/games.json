@@ -1,4 +1,5 @@
 [
+    
     {
         "game_id":1,
         "game_name":"Marvel Rivals",
@@ -6,7 +7,8 @@
         "game_banner":"https://assets.khelnow.com/news/uploads/2024/12/marvel_rivals_lead-1.jpg",
         "game_views":10,
         "game_rating":98,
-        "game_studio":"NetEase Games"
+        "game_studio":"NetEase Games",
+        "genre":["Sc-fi","Thriller","Fantasy"]
     },{
         "game_id":2,
         "game_name":"Detroit: Become Human",
@@ -14,17 +16,19 @@
         "game_banner":"https://uhdwallpapers.org/uploads/converted/18/06/03/detroit-become-human-wallpaper-1920x1080_56854-mm-90.webp",
         "game_views":20,
         "game_rating":99,
-        "game_studio":"Quantic Dream"
+        "game_studio":"Quantic Dream",
+        "genre":["Sc-fi","Mystery","Thriller"]
     
     },
     {
         "game_id":3,
-        "game_name":"Ghost Df Tsushima",
+        "game_name":"Ghost Of Tsushima",
         "game_poster":"https://upload.wikimedia.org/wikipedia/en/b/b6/Ghost_of_Tsushima.jpg",
         "game_banner":"https://waytoomany.games/wp-content/uploads/2020/08/Ghost-of-Tsushima-Title-Screen.jpg",
         "game_views":42,
         "game_rating":100,
-        "game_studio":"Sucker Punch"
+        "game_studio":"Sucker Punch",
+        "genre":["Action","History","Drama"]
     },
     {
         "game_id":4,
@@ -33,7 +37,8 @@
         "game_banner":"https://www.theouterhaven.net/wp-content/uploads/2021/02/Days-Gone-Header-1280x720-1-750x422.jfif",
         "game_views":23,
         "game_rating":89,
-        "game_studio":"Bend Studio"
+        "game_studio":"Bend Studio",
+        "genre":["Explore","Action","Thriller"]
     },
     {
         "game_id":5,
@@ -42,6 +47,58 @@
         "game_banner":"https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2021/09/league-of-legends.jpeg?fit=1607%2C895&ssl=1",
         "game_views":39,
         "game_rating":95,
-        "game_studio":"Riot Games"
+        "game_studio":"Riot Games",
+        "genre":["Sc-fi","Action","Fantasy"]
+    },
+    {
+        "game_id":6,
+        "game_name":"Valorant",
+        "game_poster":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6xvCYd39BIlko9d7p35hxkQHAUG1qlCTI3Rz-_-UoCyzF8Xa1",
+        "game_banner":"https://analisadaily.com/imagesfile/202211/20221129-192005_valorant-akan-segera-hadir-di-android.jpeg",
+        "game_views":10,
+        "game_rating":98,
+        "game_studio":"Riot Games",
+        "genre":["Sc-fi","Thriller","Fantasy"]
+    },{
+        "game_id":7,
+        "game_name":"Resident Evil",
+        "game_poster":"https://m.media-amazon.com/images/M/MV5BMTc0Mzc2OTQ0Ml5BMl5BanBnXkFtZTgwOTQ5MjE4MDI@._V1_FMjpg_UX1000_.jpg",
+        "game_banner":"https://cdn.kayiprihtim.com/wp-content/uploads/2024/07/Resident-Evil-9-Resmen-Geliyor.jpg",
+        "game_views":30,
+        "game_rating":79,
+        "game_studio":"Nex Entertainment",
+        "genre":["Sc-fi","Survival","Thriller"]
+    
+    },
+    {
+        "game_id":8,
+        "game_name":"Assassin's Creed",
+        "game_poster":"https://m.media-amazon.com/images/I/815L7efIuzL.jpg",
+        "game_banner":"https://images-cdn.ubuy.co.in/65d38caee12d82740772dd80-assassin-s-creed-origins-landscape.jpg",
+        "game_views":42,
+        "game_rating":100,
+        "game_studio":"Ubisoft Montreal",
+        "genre":["Action","History","Drama"]
+    },
+    {
+        "game_id":9,
+        "game_name":"Cyberpunk",
+        "game_poster":"https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
+        "game_banner":"https://variety.com/wp-content/uploads/2023/10/cyberpunk.jpeg?w=1000&h=667&crop=1&resize=1000%2C667",
+        "game_views":73,
+        "game_rating":97,
+        "game_studio":"CD Projekt RED",
+        "genre":["Sc-fi","Action","Thriller"]
+    },
+    {
+        "game_id":10,
+        "game_name":"Batman",
+        "game_poster":"https://cdn.wccftech.com/wp-content/uploads/2015/06/batman-arkham-knight.jpg",
+        "game_banner":"https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2021/09/league-of-legends.jpeg?fit=1607%2C895&ssl=1",
+        "game_views":89,
+        "game_rating":95,
+        "game_studio":"Rocksteady Studios",
+        "genre":["Sc-fi","Action","Crime"]
     }
+    
 ]
