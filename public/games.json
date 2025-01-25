@@ -1,0 +1,47 @@
+[
+    {
+        "game_id":1,
+        "game_name":"Marvel Rivals",
+        "game_poster":"https://cdn.marvel.com/content/1x/marvelrivals_lob_crd_01.jpg",
+        "game_banner":"https://assets.khelnow.com/news/uploads/2024/12/marvel_rivals_lead-1.jpg",
+        "game_views":10,
+        "game_rating":98,
+        "game_studio":"NetEase Games"
+    },{
+        "game_id":2,
+        "game_name":"Detroit: Become Human",
+        "game_poster":"https://m.media-amazon.com/images/M/MV5BYWEyMmNmM2QtODc4NS00NGM3LWI3YzAtNDJhOGI1ZWM0NTM5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "game_banner":"https://uhdwallpapers.org/uploads/converted/18/06/03/detroit-become-human-wallpaper-1920x1080_56854-mm-90.webp",
+        "game_views":20,
+        "game_rating":99,
+        "game_studio":"Quantic Dream"
+    
+    },
+    {
+        "game_id":3,
+        "game_name":"Ghost Df Tsushima",
+        "game_poster":"https://upload.wikimedia.org/wikipedia/en/b/b6/Ghost_of_Tsushima.jpg",
+        "game_banner":"https://waytoomany.games/wp-content/uploads/2020/08/Ghost-of-Tsushima-Title-Screen.jpg",
+        "game_views":42,
+        "game_rating":100,
+        "game_studio":"Sucker Punch"
+    },
+    {
+        "game_id":4,
+        "game_name":"Days Gone",
+        "game_poster":"https://cdn1.epicgames.com/9f4875c1b0cf4cf19b28e203fc7aff07/offer/EGS_Brutalopenworldactionadventuregame_BendStudio_S2-1200x1600-e1c183cc11fdb47e26581e5ba19aa10a.jpg",
+        "game_banner":"https://www.theouterhaven.net/wp-content/uploads/2021/02/Days-Gone-Header-1280x720-1-750x422.jfif",
+        "game_views":23,
+        "game_rating":89,
+        "game_studio":"Bend Studio"
+    },
+    {
+        "game_id":5,
+        "game_name":"League Of Legends",
+        "game_poster":"https://m.media-amazon.com/images/M/MV5BZTBkZjRlYWEtMWZlNi00Mzc1LWFmYTctNTNlOWJhNmEzMzU2XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+        "game_banner":"https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2021/09/league-of-legends.jpeg?fit=1607%2C895&ssl=1",
+        "game_views":39,
+        "game_rating":95,
+        "game_studio":"Riot Games"
+    }
+]

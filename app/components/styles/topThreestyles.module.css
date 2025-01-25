@@ -1,0 +1,50 @@
+.gameCard{
+    width: 500px;
+    border: 1px solid white;
+    height: 180px;
+    position: relative;
+    left:1200px;
+    overflow: hidden;
+    top:130px;
+    
+  }
+  .gameImage{
+    position: absolute;
+    left:10px;
+    top:10px;
+  }
+  .gameTitle{
+    position: absolute;
+    font-family: "Abril";
+    text-align: center;
+    font-size: 26px;
+    left: 200px;
+    top:10px;
+  
+  }
+  .gameVeiws{
+    position: absolute;
+    bottom:30px;
+    left:180px;
+  }
+  .likesIco{
+    position: absolute;
+    bottom:30px;
+    left: 280px;
+  }
+  .views{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    position: absolute;
+    left: 210px;
+    top:130px;
+  }
+  .gameLikes{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    position: absolute;
+    left: 310px;
+    top:130px;
+  }

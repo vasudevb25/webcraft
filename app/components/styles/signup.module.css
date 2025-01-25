@@ -1,0 +1,121 @@
+
+#loginheading,#signupheading{
+    position: absolute;
+    font-size: 30px;
+    width: 50%;
+    background-color:  rgb(240, 239, 239);
+    height: 10%;
+    top: 0%;
+    left: 0%;
+  }
+  #signupheading{
+    top: 0%;
+    left: 50%;
+  }
+  #Email,#userName,#passWord{
+    position: absolute;
+    top:120px;
+    padding: 3px 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(214, 214, 214);
+    font-size: 25px;
+    left: 70px;
+    width: 420px;
+  }
+  #userName{
+    top:190px;
+  }
+  #passWord{
+    top:260px;
+  }
+  #rememberMe{
+    position: absolute;
+    top:320px;
+    left: 75px;
+    width: 20px;
+    height: 20px;
+  }
+  #rememberMetext{
+    position: absolute;
+    top:317px;
+    left: 105px;
+    font-size: 18px;
+  }
+  #signButton{
+    position: absolute;
+    top:350px;
+    width: 80%;
+    left: 10%;
+    height: 40px;
+    border-radius:30px;
+    border: 2px solid rgb(214, 214, 214);
+  }
+  #line{
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    bottom:150px;
+    background-color: rgb(214, 214, 214);
+    height: 1px;
+  }
+  body.active_modal {
+    overflow-y: hidden;
+  }
+
+.modal, .overlay {
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+  }
+  
+  .overlay {
+    background: rgba(49,49,49,0.8);
+  }
+  .modal_box {
+    position: absolute;
+    width: 35%;
+    height: 68%;
+    top:12%;
+    left: 30%;
+    background-color: rgb(230, 230, 230);
+    border-radius: 30px;
+  }
+  .closemodal:hover{
+    border: black 1px solid;
+    color: black;
+  }
+  .closemodal{
+    position: absolute;
+    width: 40px;
+    color: grey;
+    height: 40px;
+    border-radius: 10px;
+    top: 15px;
+    right: 20px;
+    padding: 5px 7px;
+  }
+  .modal_content{
+    position: absolute;
+    width: 84%;
+    height: 84%;
+    border-radius: 30px;
+    top:9%;
+    left: 8%;
+    color: gray;
+    background-color: white;
+  }
+  
+  #profile:hover{
+    border: 3px solid white;
+    border-radius: 50%;
+  
+  }
+  #profile{
+    position: absolute;
+    right:15px;
+    top:20px;
+  }  

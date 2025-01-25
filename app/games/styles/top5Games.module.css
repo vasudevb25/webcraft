@@ -1,0 +1,62 @@
+.a{
+    position: absolute;
+    top:600px;
+    left: 20%;
+  }
+.b{
+    position: absolute;
+    top:-50px;
+    left: 25%;
+  }
+.topRow{
+    position: absolute;
+    top:250px;
+    left: 25%;
+    padding: 0;
+    margin: 40px;
+    list-style-type: none;
+    display: flex;
+}
+.topRow li{
+    margin-right: 40px;
+}
+p#topGames{
+    position: absolute;
+    left: -5%;
+    top:-70px;
+    color: white;   
+    font-size: 20px;
+    border-bottom: 1px gray solid;
+    width:110%;
+}
+#Poster{
+    width: 100%;
+    height: 100%; 
+
+}
+.memberBox{
+    width: 165px;
+    height: 260px;
+
+}
+#eyeIco{
+    position: relative;
+    top:21px;
+}
+#viewCount{
+    position: relative;
+    font-size: 12px;
+    top:3px;
+    left:30px;
+}
+#likeIco{
+    position: relative;
+    top:-20px;
+    left:100px;
+}
+#likeCount{
+    position: relative;
+    font-size: 12px;
+    top:-37px;
+    left: 125px;
+}
